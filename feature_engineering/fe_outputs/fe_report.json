@@ -1,0 +1,20 @@
+{
+  "n_rows_total": 8760,
+  "n_features": 76,
+  "train_rows": 7008,
+  "test_rows": 1752,
+  "physics_features_included": [
+    "air_deltaT_C",
+    "coil_capacity_proxy_kW",
+    "chw_deltaT_C",
+    "evap_capacity_proxy_kW",
+    "cond_deltaT_C",
+    "cond_capacity_proxy_kW",
+    "inst_COP",
+    "PLR_proxy",
+    "kW_per_ton",
+    "compressor_speed_proxy_rpm",
+    "pump1_speed_proxy_rpm",
+    "pump2_speed_proxy_rpm"
+  ]
+}

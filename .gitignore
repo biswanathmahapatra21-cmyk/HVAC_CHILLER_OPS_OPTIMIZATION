@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env/
+
+# Data & artifacts (don’t push large files)
+data/*.csv
+artifacts/*
+reports/
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+
+# Large model artifacts
+artifacts/
+Scripts/artifacts/
+*.joblib
+*.zip
+
+
