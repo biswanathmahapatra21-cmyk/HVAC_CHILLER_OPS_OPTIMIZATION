@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
+gymnasium
+stable-baselines3==2.3.0
+joblib
+gdown
+torch
